@@ -5,7 +5,7 @@
 
 **Aim :** Predict whether income exceeds $50K/yr based on census data. Also known as "Census Income" dataset.
 
-- Exploratory data analysis for the Adult or Census Income dataset from UCI Machine Learning Repository can be downloded from https://archive.ics.uci.edu/ml/datasets/adult
+- Exploratory data analysis for the Adult or Census Income dataset from UCI Machine Learning Repository can be downloded from https://archive.ics.uci.edu/dataset/2/adult
 
 
 
